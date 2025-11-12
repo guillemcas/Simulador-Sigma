@@ -1,0 +1,5 @@
+{
+  "name": "Simulador de Rendimiento - Fondo Sigma Internacional",
+  "description": "Una aplicación para simular el rendimiento de una inversión en el fondo Sigma Internacional (ES0175902008) basándose en datos históricos. Los usuarios pueden introducir una inversión inicial, una fecha de inicio y una fecha de fin para calcular el valor final y el rendimiento neto, visualizando los resultados en un gráfico interactivo.",
+  "requestFramePermissions": []
+}
